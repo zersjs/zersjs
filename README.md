@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zers&show_icons=true&theme=radical" alt="zers github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zersjs&show_icons=true&theme=radical" alt="zers github stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zers&theme=radical" alt="zers streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zersjs&theme=radical" alt="zers streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zers&layout=compact&theme=radical" alt="zers top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=radical" alt="zers top languages" />
 </p>
 
 ---
