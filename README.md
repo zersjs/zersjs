@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Zers</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</p>
+
 ---
 
 ### 🌐 Social Media
@@ -30,6 +34,13 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zers&layout=compact&theme=radical" alt="zers top languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
