@@ -1,15 +1,14 @@
 <h1 align="center">👋 Merhaba, ben Zers</h1>
-<h3 align="center">🚀 Web & Mobil Developer | 🎨 Creative Coder | 🛠️ Tech Explorer</h3>
 
 ---
 
 ### 🌐 Sosyal Medya
 <p align="center">
   <a href="https://instagram.com/r3swl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-000000.svg?&style=for-the-badge&logo=Instagram&logoColor=E4405F" />
   </a>
   <a href="https://www.buymeacoffee.com/zers" target="_blank">
-    <img src="https://img.shields.io/badge/Support-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy&nbsp;Me&nbsp;a&nbsp;Coffee-000000.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" />
   </a>
 </p>
 
