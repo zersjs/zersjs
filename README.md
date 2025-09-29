@@ -10,7 +10,6 @@
 <img src="https://skillicons.dev/icons?i=php,python,mongodb,mysql,docker,linux,bash,git,photoshop" />
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zersjs&theme=radical" alt="zers streak stats" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=radical" alt="zers top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=dracula" alt="zers top languages" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
