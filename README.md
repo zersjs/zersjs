@@ -1,13 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Zers</h1>
 
 ---
-
-### 🌐 Social Media
-<p align="center">
-  <a href="https://instagram.com/r3swl" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
+### Support Me
   <a href="https://www.buymeacoffee.com/zers" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/>
   </a>
@@ -17,9 +11,8 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mongodb,mysql,docker,linux,bash,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,php,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,bash,git,photoshop" />
 </p>
 
 ---
