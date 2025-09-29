@@ -13,4 +13,4 @@
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=dracula" alt="zers top languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=282a36,bd93f9,ff79c6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,6600cc,ff0066&height=120&section=footer"/>
