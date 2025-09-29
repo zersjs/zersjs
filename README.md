@@ -1,35 +1,27 @@
-<h1 align="center">👋 Hi there, I'm Zers</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+# 👋 Hi there, I'm Zers
 
 ---
-### Support Me
-  <a href="https://www.buymeacoffee.com/zers" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+
+### ☕ Support Me
+<a href="https://www.buymeacoffee.com/zers" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/>
+</a>
 
 ---
 
 ### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,php,python" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,bash,git,photoshop" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs" /><br/>
+<img src="https://skillicons.dev/icons?i=php,python,mongodb,mysql,docker,linux,bash,git,photoshop" />
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zersjs&show_icons=true&theme=radical" alt="zers github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zersjs&theme=radical" alt="zers streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=radical" alt="zers top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=zersjs&show_icons=true&theme=radical" alt="zers github stats" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zersjs&theme=radical" alt="zers streak stats" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zersjs&layout=compact&theme=radical" alt="zers top languages" />
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
